@@ -11,7 +11,7 @@
     <br />
     <a href="/Video/Agregar">Agregar Videos</a>
     <br />
-    <a href="#">Modificar Videos</a>
+    <a href="/Video/Modificar">Modificar Videos</a>
     <br />
     <a href="#">Eliminar Videos</a>
 </body>
