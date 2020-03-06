@@ -13,6 +13,6 @@
     <br />
     <a href="/Video/Modificar">Modificar Videos</a>
     <br />
-    <a href="#">Eliminar Videos</a>
+    <a href="/Video/Eliminar">Eliminar Videos</a>
 </body>
 </html>

@@ -49,5 +49,17 @@ namespace MvcPlantilla.Controllers
             BaseHelper.ejecutarSentencia("UPDATE video set idvideo=@idvideo,titulo=@titulo,reproducciones=@reproducciones,link=@link where idvideo=@idvideo", CommandType.Text, parametros);
             return RedirectToAction("Index", "Home");
         }
+        public ActionResult Eliminar()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Eliminar(int idvideo)
+        {
+            List<SqlParameter> parametros = new List<SqlParameter>();
+            parametros.Add(new SqlParameter("@idvideo", idvideo));
+            BaseHelper.ejecutarSentencia("DELETE FROM video where idvideo=@idvideo", CommandType.Text, parametros);
+            return RedirectToAction("Index", "Home");
+        }
     }
 }

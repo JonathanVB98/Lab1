@@ -7,3 +7,7 @@ C:\Users\WM\Downloads\PortableGit\MVCPlantilla\bin\MvcPlantilla.dll
 C:\Users\WM\Downloads\PortableGit\MVCPlantilla\bin\MvcPlantilla.pdb
 C:\Users\WM\Downloads\PortableGit\MVCPlantilla\obj\Debug\MvcPlantilla.dll
 C:\Users\WM\Downloads\PortableGit\MVCPlantilla\obj\Debug\MvcPlantilla.pdb
+C:\Users\WM\Downloads\PortableGit\MVCPlantilla\Lab1\bin\MvcPlantilla.dll
+C:\Users\WM\Downloads\PortableGit\MVCPlantilla\Lab1\bin\MvcPlantilla.pdb
+C:\Users\WM\Downloads\PortableGit\MVCPlantilla\Lab1\obj\Debug\MvcPlantilla.dll
+C:\Users\WM\Downloads\PortableGit\MVCPlantilla\Lab1\obj\Debug\MvcPlantilla.pdb
