@@ -7,7 +7,12 @@
     <title>Index</title>
 </head>
 <body>
-    <p> Bienvenido
-    </p>
+    <a href="#">Mostrar Videos</a>
+    <br />
+    <a href="/Video/Agregar">Agregar Videos</a>
+    <br />
+    <a href="#">Modificar Videos</a>
+    <br />
+    <a href="#">Eliminar Videos</a>
 </body>
 </html>
