@@ -3,3 +3,7 @@ C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software
 C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.csprojResolveAssemblyReference.cache
 C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.dll
 C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.pdb
+C:\Users\WM\Downloads\PortableGit\MVCPlantilla\bin\MvcPlantilla.dll
+C:\Users\WM\Downloads\PortableGit\MVCPlantilla\bin\MvcPlantilla.pdb
+C:\Users\WM\Downloads\PortableGit\MVCPlantilla\obj\Debug\MvcPlantilla.dll
+C:\Users\WM\Downloads\PortableGit\MVCPlantilla\obj\Debug\MvcPlantilla.pdb
